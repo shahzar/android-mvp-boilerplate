@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.shzlabs.android_mvp_boilerplate"
+        applicationId "com.shzlabs.androidmvpboilerplate"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
